@@ -6,7 +6,11 @@ public class Firstclass {
 		// TODO Auto-generated method stub
 System.out.println("first commit from local repostory");
 System.out.println("second commit from local repostory");
-System.out.println("ucuncu commitimiz local repositryden");
+
+
+
+System.out.println("conflit yapmak istiyoruz");
+
 System.out.println("first commit from remote repostory");	
 	}
 
