@@ -9,7 +9,7 @@ System.out.println("second commit from local repostory");
 
 
 
-System.out.println("conflit yapmak istiyoruz");
+System.out.println("we want to make to second conflict");
 
 System.out.println("first commit from remote repostory");	
 	}
